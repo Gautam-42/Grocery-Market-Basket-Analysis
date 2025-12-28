@@ -1,0 +1,21 @@
+Dataset Summary:-
+Total records: 38765
+Unique customers: 3898
+Unique items: 167
+Unique transactions: 14963
+
+
+Top Frequent Itemsets:-
+support    itemsets
+0.1579     (whole milk)
+0.1221     (other vegetables)
+0.1100     (rolls/buns)
+0.0971     (soda)
+0.0859     (yogurt)
+
+Customer Cluster Summary:-
+Cluster 0 → medium recency, medium frequency
+Cluster 1 → high recency, low frequency (at-risk)
+Cluster 2 → low recency, high frequency (loyal customers)
+
+
